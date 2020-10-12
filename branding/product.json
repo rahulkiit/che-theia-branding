@@ -1,0 +1,22 @@
+{
+    "name": "DevSecOps Academy Workspace",
+    "icon": "devsecops-workspaces-icons.jpg",
+    "logo": {
+        "dark": "devsecops-workspaces-logo.jpg",
+        "light": "devsecops-workspaces-logo.jpg"
+    },
+    "welcome": {
+        "title": "Welcome to Your Workspace",
+        "links": ["website", "documentation"]
+    },
+    "links": {
+        "website": {
+            "name": "Discover CodeReady Workspaces",
+            "url": "https://training.dev.araido.io/"
+        },
+        "documentation": {
+            "name": "Browse Documentation",
+            "url": "https://training.dev.araido.io/"
+        }
+    }
+}
