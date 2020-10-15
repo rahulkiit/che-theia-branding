@@ -48,7 +48,7 @@ spec:
         discoverable: false
   containers:
    - name: theia-ide
-     image: "docker.io/rahulkiit/che-theia-devsecopsacademy:latest"
+     image: "docker.io/rahulkiit/che-theia-devsecopsacademy:new"
      env:
          - name: THEIA_PLUGINS
            value: local-dir:///plugins
